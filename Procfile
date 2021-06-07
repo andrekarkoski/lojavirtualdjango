@@ -1,1 +1,1 @@
-web gunicorn lojavirtualdjango.wsgi
+web: gunicorn lojavirtualdjango.wsgi
